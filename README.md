@@ -1,5 +1,5 @@
 
-项目启动命令  （两个项目都启动后，浏览器输入`localhost:3000`进入start app）
+# 项目启动命令  （两个项目都启动后，浏览器输入`localhost:3000`进入start app）
 
 # weatherApi
 
